@@ -1,6 +1,8 @@
 # Classification
 Machine Learning classification Algorithm:
+
 Linear Regression
+
 SVC 2 kernels linear, poly 
 ## Problem Statement
 
